@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoPonceDev/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscoPonceDev/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/franciscoPonceDev/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
